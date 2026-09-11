@@ -1,0 +1,96 @@
+# Macedonian Grammar and Progress Tracker
+
+**Last completed lesson reconciled:** 2026-09-11  
+**Last reconciliation performed:** 2026-09-11  
+**Last cumulative review:** 2026-09-11
+
+Status meanings: **developing** = demonstrated but not consistently secure; **introduced** = explained or encountered and needs more retrieval.
+
+## Tracked grammar
+
+| Pattern | Meaning / rule | Status / evidence |
+|---|---|---|
+| `сум` and subject omission | Macedonian often omits `јас`; `Добро сум` is natural | developing |
+| `сакам + noun` | want a thing: `Сакам кафе` | developing |
+| `сакам да + present verb` | want to do something: `Сакам да пијам вода` | developing |
+| `не + verb` | negation: `Не сакам...` | developing |
+| first vs second person present | e.g. `одам/одиш`, `пијам/пиеш`, `јадам/јадеш`, `купувам/купуваш` | developing; shopping contrast consolidated 2026-09-06 |
+| `и` | joins nouns or clauses: `млеко и јајца` | developing |
+| `ама` | but | introduced |
+| `што` questions | what: `Што пиеш?` | developing |
+| `каде` questions | where: `Каде купуваш леб?` | developing; independently produced 2026-09-06 |
+| `денес` / `утре` | time words can appear early for clarity | developing |
+| `секогаш` / `понекогаш` + verb | frequency adverbs commonly precede the verb: `Понекогаш пијам кафе` | developing; introduced and used independently 2026-09-11 |
+| `во + place` | movement/location with a place: `во продавница`, `во Перт` | developing |
+| `од + source` | “from” a place/source: `од продавницата`, contrasted with `во продавницата` (“in the shop”) | developing; focused practice completed 2026-09-08 |
+| `на работа` | idiomatic form for at/to work | developing |
+| `дома` without `во` | say `Одам дома` / `Сум дома`, not `во дома` | developing |
+| suffixed definite article | e.g. masculine `лебот`/`пазарот`/`викендот`; feminine `продавницата`; Macedonian attaches “the” to the noun | developing; focused practice completed 2026-09-07 |
+
+## Demonstrated sentence patterns
+
+- `Одам дома.` — I am going home.
+- `Одам на работа.` — I am going to work.
+- `Одам во продавница.` — I am going to the/a shop in beginner usage.
+- `Сакам да пијам вода.` — I want to drink water.
+- `Сакам да јадам бурек.` — I want to eat burek.
+- `Денес купувам млеко и јајца.` — Today I am buying milk and eggs.
+- `Утре купуваш млеко и јајца.` — Tomorrow you are buying milk and eggs.
+- `Каде купуваш леб?` — Where do you buy bread?
+- `Купувам леб на пазарот денес.` — I am buying bread at the market today.
+- `Купуваш пилешко во продавницата.` — You are buying chicken in the shop.
+- `Купувам леб од пекарата.` — I buy bread from the bakery.
+- `Утре купувам млеко во пекарата.` — Tomorrow I buy milk in the bakery.
+
+## Recurring corrections
+
+- Use `одиш`, not `одаш`, for “you go.”
+- Use `пијам` for “I drink” and `пиеш` for “you drink.”
+- Use `јадам` / `јадеш` for “I eat” / “you eat.”
+- After `сакам да`, use a present-tense verb: `Сакам да одам`, not `Сакам одам`.
+- Use `дома` directly: `Одам дома`, not `Одам во дома`.
+- Distinguish `купувам` (I buy) from `купуваш` (you buy).
+
+## Items to prioritise next
+
+- Continue retrieving `пијам` / `пиеш`; `пијаш` appeared once before correction in the cumulative review.
+- Revisit `сакам да + verb`; `да` was omitted once in the final conversation.
+- Continue short question-and-answer exchanges with `што` and `каде`.
+- Recheck `во пекарата` versus idiomatic `на пазарот` / `на работа` after the correction from `на пекарата`.
+- Recycle `секогаш` and `понекогаш` in less-supported mixed sentences.
+
+## Reconciliation evidence
+
+### 2026-09-11 — first cumulative review
+
+- Correctly retrieved subject omission, origin with `од`, `живеам во + city`, and `утре одам на работа`.
+- Initially formed “you drink” as `пијаш`; corrected it to `пиеш` and subsequently used `пиеш` correctly twice.
+- Corrected erroneous `Сакам да пијаш вода` to `Сакам да пијам вода`, but later omitted `да` once in spontaneous conversation: `Сакам пијам јогурт...`.
+- Introduced frequency adverbs before the verb and independently produced `Понекогаш пијам кафе`, `Секогаш пиеш кафе`, and other mixed examples.
+- Correctly used `од пекарата` for source and `во пекарата` for location after support; `на пекарата` appeared once and was corrected.
+- Correctly fixed both errors in `Понекогаш одиш во дома и пијаш вода` to `Понекогаш одиш дома и пиеш вода`.
+- First cumulative review completed. Strongest areas were introductions/origin, `одам`, shopping verbs, `дома`, and source `од`; priority gaps are `пијам/пиеш`, retaining `да`, and place-preposition selection.
+
+### 2026-09-08
+
+- Correctly maintained `купувам` / `купуваш` across review, practice, and conversation.
+- Independently retrieved the definite forms `пазарот`, `продавницата`, and `викендот`.
+- Learned the place/source contrast: `во продавницата` means “in the shop,” while `од продавницата` means “from the shop.”
+- Correctly produced `Купувам леб од пекарата.` and `Утре купувам млеко во пекарата.`
+- Used `од продавницата` naturally in the final conversation and combined clauses with `ама`: `Купувам ајвар од продавницата ама сакам бурек.`
+
+### 2026-09-07
+
+- Correctly distinguished `одиш` and `купувам` in review.
+- Learned the suffixed definite pattern using masculine `-от` and feminine `-та` forms.
+- Recognised `лебот` and `продавницата`; independently produced `пазарот` and `викендот`.
+- Used definite place forms naturally in `на пазарот` and `во продавницата`.
+- Maintained the first/second-person contrast in `купувам` / `купуваш` sentences.
+
+### 2026-09-06
+
+- Correctly practised first/second-person shopping forms `купувам` and `купуваш`.
+- Used noun coordination with `и` in several shopping sentences.
+- Used `денес` and `утре` with present-tense verbs.
+- Produced the question `Каде купуваш леб?`.
+- `одиш` remained a correction target.
