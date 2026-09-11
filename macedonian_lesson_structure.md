@@ -67,6 +67,9 @@ Review and Retrieval must remain distinct. If they would test the same thing in 
 - Still introduce at least two new base words, but keep the new grammar load light so cumulative retrieval remains the focus.
 - Record the cumulative review date and specific strengths/gaps in both trackers so the next weekly review can target neglected material rather than repeating the same sample.
 
-## Current continuation point
+## Determine the next lesson dynamically
 
-The lesson completed on **2026-09-08** contrasted `во` (“in”) with source `од` (“from”) and introduced `пекара`; it also independently elicited `ајвар`. Because `од` was already known from origin phrases, it must not be treated as sufficient new difficulty in a future lesson. The next lesson is the first **weekly cumulative review** and should retrieve older material including `живеам`, introductions, origin, `сакам да + verb`, `одиш`, `пијам/пиеш`, `јадам/јадеш`, locations, questions, definite forms, and shopping language, while adding at least two genuinely new base words.
+- Do not record a dated continuation point in this file; it becomes stale and creates a competing source of truth.
+- Determine the next lesson only from the matching reconciliation markers, dated evidence, statuses, and priority lists in `macedonian_vocabulary.md` and `macedonian_grammar.md`.
+- If the trackers disagree, reconcile them against the latest reliable lesson evidence before selecting any lesson material.
+- Schedule a cumulative review from the verified **Last cumulative review** marker in both trackers.
