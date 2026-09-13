@@ -66,9 +66,9 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 ### 2026-09-13
 
 - Introduced `тој` / `таа` together and clarified that present-tense third-person verb forms do not change for masculine versus feminine subjects.
-- Correctly produced `Тој купува леб`, `Таа купува овошјее`, `Таа јаде зеленчук`, `Јас купувам овошје`, and `Таа пие вода` (tracker normalizes the learner's correct `овошје` spelling).
+- Correctly produced `Тој купува леб`, `Таа купува овошје`, `Таа јаде зеленчук`, `Јас купувам овошје`, and `Таа пие вода` (tracker normalizes the learner's correct `овошје` spelling).
 - Initially produced `оде`; corrected and rewrote `Утре тој оди на пазарот.` successfully.
-- Initially placed the subject before the verb in `Што јаде таа денес?` work; learned the neutral pattern `Што + verb + subject` and then produced `Што јаде таа денес?` correctly.
+- Correctly produced and repeated the neutral `што + verb + subject` question `Што јаде таа денес?`; subject-first order was explained only as a possible contrastive alternative.
 - Correctly used `сакам да + купувам` in the final conversation.
 
 ### 2026-09-11 — first cumulative review
