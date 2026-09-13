@@ -1,7 +1,7 @@
 # Macedonian Vocabulary Tracker
 
-**Last completed lesson reconciled:** 2026-09-11  
-**Last reconciliation performed:** 2026-09-11  
+**Last completed lesson reconciled:** 2026-09-13  
+**Last reconciliation performed:** 2026-09-13  
 **Last cumulative review:** 2026-09-11
 
 Status meanings: **strong** = recalled independently; **developing** = used with some support or errors; **encountered** = introduced but not yet demonstrated reliably; **unverified** = present in an older tracker without reliable lesson evidence and must not be used as assumed prior knowledge.
@@ -17,6 +17,8 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | мило ми е | milo mi e | pleased to meet you | encountered |
 | јас | jas | I | developing |
 | ти | ti | you | developing |
+| тој | toj | he | developing; introduced and used correctly with `купува` 2026-09-13 |
+| таа | taa | she | developing; used correctly with `купува`, `јаде`, and `пие` 2026-09-13 |
 | сум | sum | am | developing |
 | од | od | from | developing; distinguished from `во` and used independently with shops 2026-09-08 |
 | Австралија | Avstralija | Australia | developing |
@@ -79,6 +81,9 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | пршки | prshki | pork bites (colloquial/regional) | encountered |
 | ајвар | ajvar | ajvar | developing; produced independently in conversation 2026-09-08 |
 | јогурт | jogurt | yoghurt | developing; produced independently in conversation 2026-09-11 |
+| овошје | ovoshje | fruit | developing; introduced and used correctly with first- and third-person `купува` 2026-09-13 |
+| зеленчук | zelenchuk | vegetables | developing; introduced and used correctly with `јаде` 2026-09-13 |
+| мекица | mekica | mekica (fried dough) | encountered; independently introduced by learner in final conversation 2026-09-13 |
 
 ## Other encountered language
 
@@ -98,6 +103,15 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 - Treat `читам`, `играм`, `книги`, `видео игри`, and `слободно време` as unverified—not learned—until explicitly introduced and practised.
 
 ## Reconciliation evidence
+
+### 2026-09-13
+
+- Introduced `тој` and `таа` together and correctly used them with `купува`, `пие`, and `јаде`.
+- Introduced `овошје` and `зеленчук`; both were produced correctly in supported and transformation prompts.
+- Independently introduced `мекица` in the final conversation.
+- Produced `бирек` once, then received the spelling correction `бурек`.
+- Used informal `џус`; received `сок` as the standard tracked word.
+- Recalled `леб`, `пекарата`, `јогурт`, `вода`, `пазарот`, and `месо` in mixed sentences.
 
 ### 2026-09-11 — first cumulative review
 

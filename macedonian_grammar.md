@@ -1,7 +1,7 @@
 # Macedonian Grammar and Progress Tracker
 
-**Last completed lesson reconciled:** 2026-09-11  
-**Last reconciliation performed:** 2026-09-11  
+**Last completed lesson reconciled:** 2026-09-13  
+**Last reconciliation performed:** 2026-09-13  
 **Last cumulative review:** 2026-09-11
 
 Status meanings: **developing** = demonstrated but not consistently secure; **introduced** = explained or encountered and needs more retrieval.
@@ -15,6 +15,8 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 | `сакам да + present verb` | want to do something: `Сакам да пијам вода` | developing |
 | `не + verb` | negation: `Не сакам...` | developing |
 | first vs second person present | e.g. `одам/одиш`, `пијам/пиеш`, `јадам/јадеш`, `купувам/купуваш` | developing; shopping contrast consolidated 2026-09-06 |
+| third-person singular present | `тој` (he) and `таа` (she) use the same present verb form: `купува`, `пие`, `јаде`, `оди` | developing; `купува`, `пие`, and `јаде` used correctly 2026-09-13; `оди` needed correction from `оде` |
+| neutral `што` question order | beginner-neutral order is `што + verb + subject`, e.g. `Што јаде таа?`; placing the subject first can add contrastive emphasis | introduced; corrected and successfully rewritten 2026-09-13 |
 | `и` | joins nouns or clauses: `млеко и јајца` | developing |
 | `ама` | but | introduced |
 | `што` questions | what: `Што пиеш?` | developing |
@@ -60,6 +62,14 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 - Recycle `секогаш` and `понекогаш` in less-supported mixed sentences.
 
 ## Reconciliation evidence
+
+### 2026-09-13
+
+- Introduced `тој` / `таа` together and clarified that present-tense third-person verb forms do not change for masculine versus feminine subjects.
+- Correctly produced `Тој купува леб`, `Таа купува овошјее`, `Таа јаде зеленчук`, `Јас купувам овошје`, and `Таа пие вода` (tracker normalizes the learner's correct `овошје` spelling).
+- Initially produced `оде`; corrected and rewrote `Утре тој оди на пазарот.` successfully.
+- Initially placed the subject before the verb in `Што јаде таа денес?` work; learned the neutral pattern `Што + verb + subject` and then produced `Што јаде таа денес?` correctly.
+- Correctly used `сакам да + купувам` in the final conversation.
 
 ### 2026-09-11 — first cumulative review
 
