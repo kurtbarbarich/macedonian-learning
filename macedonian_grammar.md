@@ -1,7 +1,7 @@
 # Macedonian Grammar and Progress Tracker
 
-**Last completed lesson reconciled:** 2026-09-13  
-**Last reconciliation performed:** 2026-09-13  
+**Last completed lesson reconciled:** 2026-09-14  
+**Last reconciliation performed:** 2026-09-14  
 **Last cumulative review:** 2026-09-11
 
 Status meanings: **developing** = demonstrated but not consistently secure; **introduced** = explained or encountered and needs more retrieval.
@@ -16,7 +16,8 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 | `не + verb` | negation: `Не сакам...` | developing |
 | first vs second person present | e.g. `одам/одиш`, `пијам/пиеш`, `јадам/јадеш`, `купувам/купуваш` | developing; shopping contrast consolidated 2026-09-06 |
 | third-person singular present | `тој` (he) and `таа` (she) use the same present verb form: `купува`, `пие`, `јаде`, `оди` | developing; `купува`, `пие`, and `јаде` used correctly 2026-09-13; `оди` needed correction from `оде` |
-| neutral `што` question order | beginner-neutral order is `што + verb + subject`, e.g. `Што јаде таа?`; placing the subject first can add contrastive emphasis | introduced; corrected and successfully rewritten 2026-09-13 |
+| neutral `што` question order | beginner-neutral order is `што + verb + subject`, e.g. `Што јаде таа?`; placing the subject first can add contrastive emphasis | developing; independently retrieved after one correction 2026-09-14 |
+| `дали` yes/no questions | place `дали` before the statement for a neutral yes/no question: `Дали тој јаде ориз?` | developing; introduced and used across supported, independent, and conversation prompts 2026-09-14 |
 | `и` | joins nouns or clauses: `млеко и јајца` | developing |
 | `ама` | but | introduced |
 | `што` questions | what: `Што пиеш?` | developing |
@@ -43,6 +44,8 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 - `Купуваш пилешко во продавницата.` — You are buying chicken in the shop.
 - `Купувам леб од пекарата.` — I buy bread from the bakery.
 - `Утре купувам млеко во пекарата.` — Tomorrow I buy milk in the bakery.
+- `Дали тој јаде ориз денес?` — Does he eat rice today?
+- `Дали таа понекогаш купува риба од продавницата?` — Does she sometimes buy fish from the shop?
 
 ## Recurring corrections
 
@@ -55,6 +58,8 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 
 ## Items to prioritise next
 
+- Retrieve `дали` yes/no question order after a delay and keep explicit subjects when the English target names the person.
+- Contrast neutral `Што јаде таа?` with neutral `Дали таа јаде...?` so the two question patterns remain distinct.
 - Continue retrieving `пијам` / `пиеш`; `пијаш` appeared once before correction in the cumulative review.
 - Revisit `сакам да + verb`; `да` was omitted once in the final conversation.
 - Continue short question-and-answer exchanges with `што` and `каде`.
@@ -62,6 +67,15 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 - Recycle `секогаш` and `понекогаш` in less-supported mixed sentences.
 
 ## Reconciliation evidence
+
+### 2026-09-14
+
+- Independently retrieved `живеам во + city`, `сакам да + present verb`, `утре + одам`, and third-person `купува` / `оди`.
+- The first transformation to “he” omitted explicit `тој` but was grammatically valid with an understood subject; the learner then supplied `Утре тој оди на пазарот.` as requested.
+- Initially used contrastive `Што таа јаде денес?`, then correctly rewrote the neutral order `Што јаде таа денес?`.
+- Introduced neutral yes/no questions with `дали` and produced several correct examples with `тој`, `таа`, frequency adverbs, places, and third-person verbs.
+- On one stretch prompt, initially wrote `Понекогаш дали купува...`, omitting explicit `таа`; then independently corrected it to `Дали таа понекогаш купува риба од продавницата?`.
+- Completed the final conversation with correct full answers, including `Да, секогаш купувам риба на пазарот.` and `Не, купувам ориз утре. Денес купувам бурек и сок.`
 
 ### 2026-09-13
 

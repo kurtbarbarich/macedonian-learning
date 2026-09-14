@@ -1,7 +1,7 @@
 # Macedonian Vocabulary Tracker
 
-**Last completed lesson reconciled:** 2026-09-13  
-**Last reconciliation performed:** 2026-09-13  
+**Last completed lesson reconciled:** 2026-09-14  
+**Last reconciliation performed:** 2026-09-14  
 **Last cumulative review:** 2026-09-11
 
 Status meanings: **strong** = recalled independently; **developing** = used with some support or errors; **encountered** = introduced but not yet demonstrated reliably; **unverified** = present in an older tracker without reliable lesson evidence and must not be used as assumed prior knowledge.
@@ -83,6 +83,8 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | јогурт | jogurt | yoghurt | developing; produced independently in conversation 2026-09-11 |
 | овошје | ovoshje | fruit | developing; introduced and used correctly with first- and third-person `купува` 2026-09-13 |
 | зеленчук | zelenchuk | vegetables | developing; introduced and used correctly with `јаде` 2026-09-13 |
+| риба | riba | fish | developing; introduced and used independently in questions and conversation 2026-09-14 |
+| ориз | oriz | rice | developing; introduced and used independently in questions and conversation 2026-09-14 |
 | мекица | mekica | mekica (fried dough) | encountered; independently introduced by learner in final conversation 2026-09-13 |
 
 ## Other encountered language
@@ -96,6 +98,8 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 
 ## Items to prioritise next
 
+- Retrieve `дали` yes/no questions after a delay, especially with explicit `тој` / `таа` and frequency words.
+- Retrieve `риба` and `ориз` without a vocabulary cue and vary them across `јаде` and `купува`.
 - Recycle `секогаш` and `понекогаш` after a delay and vary sentence position only after the basic pattern is secure.
 - Continue contrasting `пијам` and `пиеш`; the first second-person attempt was `пијаш` before correction.
 - Revisit `сакам да + verb`; `да` was omitted once in the final conversation.
@@ -103,6 +107,14 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 - Treat `читам`, `играм`, `книги`, `видео игри`, and `слободно време` as unverified—not learned—until explicitly introduced and practised.
 
 ## Reconciliation evidence
+
+### 2026-09-14
+
+- Independently retrieved `живеам во Перт`, `сакам да пијам вода`, and `Утре одам дома` during review.
+- Introduced `риба` and `ориз`; both were used correctly in yes/no questions and the final market conversation.
+- Introduced `дали` for neutral yes/no questions and used it correctly in several independent sentences.
+- On the stretch prompt, initially omitted explicit `таа` and placed `понекогаш` before `дали`; then correctly rewrote `Дали таа понекогаш купува риба од продавницата?`.
+- Independently combined `секогаш`, `на работа`, `на пазарот`, `утре`, `денес`, `бурек`, and `сок` with the day's material.
 
 ### 2026-09-13
 
