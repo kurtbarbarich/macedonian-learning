@@ -1,7 +1,7 @@
 # Macedonian Vocabulary Tracker
 
-**Last completed lesson reconciled:** 2026-09-14  
-**Last reconciliation performed:** 2026-09-14  
+**Last completed lesson reconciled:** 2026-09-15  
+**Last reconciliation performed:** 2026-09-15  
 **Last cumulative review:** 2026-09-11
 
 Status meanings: **strong** = recalled independently; **developing** = used with some support or errors; **encountered** = introduced but not yet demonstrated reliably; **unverified** = present in an older tracker without reliable lesson evidence and must not be used as assumed prior knowledge.
@@ -87,6 +87,13 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | ориз | oriz | rice | developing; introduced and used independently in questions and conversation 2026-09-14 |
 | мекица | mekica | mekica (fried dough) | encountered; independently introduced by learner in final conversation 2026-09-13 |
 
+## Household objects
+
+| Macedonian | Latin | English | Status / evidence |
+|---|---|---|---|
+| стол | stol | chair | developing; introduced 2026-09-15 and independently formed definite `столот`; used correctly as an indefinite object in conversation |
+| маса | masa | table | developing; introduced 2026-09-15 and independently formed definite `масата`; used correctly in a negative indefinite-object sentence |
+
 ## Other encountered language
 
 | Macedonian | Latin | English | Status / evidence |
@@ -98,6 +105,9 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 
 ## Items to prioritise next
 
+- Retrieve `стол` and `маса` after a delay, including recognition of masculine `столот` and feminine `масата`.
+- Practise the new nouns as indefinite direct objects for now; do not count the teacher's uncliticised definite-object prompts as evidence of a learned sentence pattern.
+
 - Retrieve `дали` yes/no questions after a delay, especially with explicit `тој` / `таа` and frequency words.
 - Retrieve `риба` and `ориз` without a vocabulary cue and vary them across `јаде` and `купува`.
 - Recycle `секогаш` and `понекогаш` after a delay and vary sentence position only after the basic pattern is secure.
@@ -107,6 +117,14 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 - Treat `читам`, `играм`, `книги`, `видео игри`, and `слободно време` as unverified—not learned—until explicitly introduced and practised.
 
 ## Reconciliation evidence
+
+### 2026-09-15
+
+- Independently retrieved `пиеш`, `сакам да + verb`, neutral `дали` order, `тој` / `таа`, `понекогаш`, and place/source phrases across review and retrieval.
+- Produced `пекората` once for `пекарата`; this was corrected as a spelling slip.
+- Introduced `стол` and `маса`; independently formed the correct definite nouns `столот` and `масата`.
+- Used `стол` and `маса` correctly as indefinite direct objects in the final conversation, and independently reused `овошје` and `зеленчук`.
+- Teaching error: practice prompts treated definite direct objects such as `столот` and `масата` as complete without the standard object clitics `го` / `ја`. Those full-sentence responses are not counted as evidence that object clitics were taught or learned; only the noun-form evidence is retained.
 
 ### 2026-09-14
 

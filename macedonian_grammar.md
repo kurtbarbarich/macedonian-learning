@@ -1,7 +1,7 @@
 # Macedonian Grammar and Progress Tracker
 
-**Last completed lesson reconciled:** 2026-09-14  
-**Last reconciliation performed:** 2026-09-14  
+**Last completed lesson reconciled:** 2026-09-15  
+**Last reconciliation performed:** 2026-09-15  
 **Last cumulative review:** 2026-09-11
 
 Status meanings: **developing** = demonstrated but not consistently secure; **introduced** = explained or encountered and needs more retrieval.
@@ -28,7 +28,8 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 | `од + source` | “from” a place/source: `од продавницата`, contrasted with `во продавницата` (“in the shop”) | developing; focused practice completed 2026-09-08 |
 | `на работа` | idiomatic form for at/to work | developing |
 | `дома` without `во` | say `Одам дома` / `Сум дома`, not `во дома` | developing |
-| suffixed definite article | e.g. masculine `лебот`/`пазарот`/`викендот`; feminine `продавницата`; Macedonian attaches “the” to the noun | developing; focused practice completed 2026-09-07 |
+| suffixed definite article | e.g. masculine `лебот`/`пазарот`/`викендот`; feminine `продавницата`; Macedonian attaches “the” to the noun | developing; focused practice completed 2026-09-07; independently formed `столот` and `масата` from new nouns 2026-09-15 |
+| basic noun-gender recognition | common consonant-final nouns such as `стол` are masculine; common `-а` nouns such as `маса` are feminine, while endings are useful patterns rather than infallible rules | introduced 2026-09-15; correctly applied to definite forms |
 
 ## Demonstrated sentence patterns
 
@@ -58,6 +59,9 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 
 ## Items to prioritise next
 
+- Retrieve masculine `стол / столот` versus feminine `маса / масата` after a delay.
+- Keep practice with the new nouns to indefinite direct objects until object clitics are intentionally introduced; do not treat the 2026-09-15 uncliticised teacher prompts as a demonstrated sentence pattern.
+
 - Retrieve `дали` yes/no question order after a delay and keep explicit subjects when the English target names the person.
 - Contrast neutral `Што јаде таа?` with neutral `Дали таа јаде...?` so the two question patterns remain distinct.
 - Continue retrieving `пијам` / `пиеш`; `пијаш` appeared once before correction in the cumulative review.
@@ -67,6 +71,13 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 - Recycle `секогаш` and `понекогаш` in less-supported mixed sentences.
 
 ## Reconciliation evidence
+
+### 2026-09-15
+
+- Independently retrieved `сакам да + present verb`, the first/second-person contrast `пијам / пиеш`, neutral `дали` order, third-person `таа + купува`, and place/source selection.
+- Correctly derived masculine `стол → столот` and feminine `маса → масата`, demonstrating initial recognition of the gender-linked definite endings.
+- Completed a coherent market conversation using familiar question/answer patterns and correctly used the new nouns as indefinite direct objects.
+- Teaching error: several practice prompts elicited definite direct objects without the normally required `го` / `ја` clitic (for example, natural standard forms would be `Го купувам столот` and `Ја купувам масата`). Object clitics were not taught, so those full sentences are excluded from positive grammar evidence and deferred to the later syllabus unit.
 
 ### 2026-09-14
 
