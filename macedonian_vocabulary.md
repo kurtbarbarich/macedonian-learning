@@ -1,7 +1,7 @@
 # Macedonian Vocabulary Tracker
 
-**Last completed lesson reconciled:** 2026-09-15  
-**Last reconciliation performed:** 2026-09-15  
+**Last completed lesson reconciled:** 2026-09-16  
+**Last reconciliation performed:** 2026-09-16  
 **Last cumulative review:** 2026-09-11
 
 Status meanings: **strong** = recalled independently; **developing** = used with some support or errors; **encountered** = introduced but not yet demonstrated reliably; **unverified** = present in an older tracker without reliable lesson evidence and must not be used as assumed prior knowledge.
@@ -92,7 +92,10 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | Macedonian | Latin | English | Status / evidence |
 |---|---|---|---|
 | стол | stol | chair | developing; introduced 2026-09-15 and independently formed definite `столот`; used correctly as an indefinite object in conversation |
-| маса | masa | table | developing; introduced 2026-09-15 and independently formed definite `масата`; used correctly in a negative indefinite-object sentence |
+| маса | masa | table | developing; introduced 2026-09-15 and independently formed definite `масата`; independently retrieved as an indefinite object 2026-09-16 |
+| прозорец | prozorec | window | developing; introduced 2026-09-16; independently formed `прозорецот` and used the indefinite form after one meaning correction |
+| врата | vrata | door | developing; introduced 2026-09-16; independently formed `вратата` and used the indefinite form in a sentence |
+| огледало | ogledalo | mirror | developing; introduced 2026-09-16; independently formed `огледалото`, with one later omission of the final `о` corrected |
 
 ## Other encountered language
 
@@ -105,8 +108,9 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 
 ## Items to prioritise next
 
-- Retrieve `стол` and `маса` after a delay, including recognition of masculine `столот` and feminine `масата`.
-- Practise the new nouns as indefinite direct objects for now; do not count the teacher's uncliticised definite-object prompts as evidence of a learned sentence pattern.
+- Retrieve `прозорец / прозорецот`, `врата / вратата`, and especially `огледало / огледалото` after a delay without vocabulary cues.
+- Continue mixing masculine, feminine, and neuter noun forms; verify that the full base `огледало` is preserved before adding `-то`.
+- Keep practising household nouns as indefinite direct objects until object clitics are intentionally introduced.
 
 - Retrieve `дали` yes/no questions after a delay, especially with explicit `тој` / `таа` and frequency words.
 - Retrieve `риба` and `ориз` without a vocabulary cue and vary them across `јаде` and `купува`.
@@ -117,6 +121,16 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 - Treat `читам`, `играм`, `книги`, `видео игри`, and `слободно време` as unverified—not learned—until explicitly introduced and practised.
 
 ## Reconciliation evidence
+
+### 2026-09-16
+
+- Review retrieved `пиеш`, `на работа`, `дали`, source `од продавницата`, third-person `купува`, and `сакам да + verb`; spelling slips `Шивеам` and `рива` were corrected to `Живеам` and `риба`.
+- Introduced household nouns `прозорец`, `врата`, and `огледало`; independently formed `прозорецот`, `вратата`, and `огледалото`.
+- Initially answered a “tomorrow” prompt with `денес`, then corrected it to `Утре тој купува врата`.
+- Initially substituted `огледало` for requested `прозорец`, then corrected the sentence while retaining correct `дали` and source structure.
+- Once produced `огледалот`; after explanation, restored the full base and wrote `огледалото`.
+- Successfully completed the stretch question and a coherent shopping conversation using `стол`, `маса`, `огледало`, and `прозорец`.
+- `Одам во продавницата да купувам...` was accepted as possible with familiar imperfective vocabulary; the more natural one-off `да купам` was noted but not taught.
 
 ### 2026-09-15
 

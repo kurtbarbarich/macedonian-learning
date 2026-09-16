@@ -1,7 +1,7 @@
 # Macedonian Grammar and Progress Tracker
 
-**Last completed lesson reconciled:** 2026-09-15  
-**Last reconciliation performed:** 2026-09-15  
+**Last completed lesson reconciled:** 2026-09-16  
+**Last reconciliation performed:** 2026-09-16  
 **Last cumulative review:** 2026-09-11
 
 Status meanings: **developing** = demonstrated but not consistently secure; **introduced** = explained or encountered and needs more retrieval.
@@ -29,7 +29,8 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 | `на работа` | idiomatic form for at/to work | developing |
 | `дома` without `во` | say `Одам дома` / `Сум дома`, not `во дома` | developing |
 | suffixed definite article | e.g. masculine `лебот`/`пазарот`/`викендот`; feminine `продавницата`; Macedonian attaches “the” to the noun | developing; focused practice completed 2026-09-07; independently formed `столот` and `масата` from new nouns 2026-09-15 |
-| basic noun-gender recognition | common consonant-final nouns such as `стол` are masculine; common `-а` nouns such as `маса` are feminine, while endings are useful patterns rather than infallible rules | introduced 2026-09-15; correctly applied to definite forms |
+| basic noun-gender recognition | common consonant-final nouns such as `стол` are masculine; common `-а` nouns such as `маса` are feminine; many `-о` nouns such as `огледало` are neuter, while endings are useful patterns rather than infallible rules | developing; masculine/feminine introduced 2026-09-15 and neuter added 2026-09-16; correctly applied across three definite forms |
+| neuter suffixed definite article | common neuter `-о` noun + `-то`, preserving the base: `огледало → огледалото` | developing; formed correctly several times 2026-09-16, with one corrected `огледалот` omission |
 
 ## Demonstrated sentence patterns
 
@@ -59,8 +60,9 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 
 ## Items to prioritise next
 
-- Retrieve masculine `стол / столот` versus feminine `маса / масата` after a delay.
-- Keep practice with the new nouns to indefinite direct objects until object clitics are intentionally introduced; do not treat the 2026-09-15 uncliticised teacher prompts as a demonstrated sentence pattern.
+- Retrieve masculine `прозорец / прозорецот`, feminine `врата / вратата`, and neuter `огледало / огледалото` after a delay.
+- Recheck that `огледало` remains intact before adding neuter `-то`; one prompted response dropped the final base vowel.
+- Keep practice with household nouns to indefinite direct objects until object clitics are intentionally introduced.
 
 - Retrieve `дали` yes/no question order after a delay and keep explicit subjects when the English target names the person.
 - Contrast neutral `Што јаде таа?` with neutral `Дали таа јаде...?` so the two question patterns remain distinct.
@@ -71,6 +73,15 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 - Recycle `секогаш` and `понекогаш` in less-supported mixed sentences.
 
 ## Reconciliation evidence
+
+### 2026-09-16
+
+- Correctly retrieved `сакам да + present verb`, third-person `купува`, neutral `дали` structure, frequency placement, and source/place phrases.
+- Extended noun-gender recognition to a common neuter `-о` noun and contrasted definite forms: `прозорецот`, `вратата`, and `огледалото`.
+- Independently formed all three definite patterns; later wrote `огледалот` once, then corrected it to `огледалото` after being reminded to preserve the base noun.
+- Two responses were grammatically sound but mismatched the requested meaning: `денес` for “tomorrow” and `огледало` for “window”; both were corrected without losing the surrounding grammar.
+- Produced the valid stretch question `Утре дали тој купува огледало од продавницата и стол на пазарот?`, with fronted `утре` accepted as emphasis.
+- Sustained the final shopping exchange using indefinite household objects. `да купам` was mentioned only as a future aspect distinction and is not recorded as learned.
 
 ### 2026-09-15
 
