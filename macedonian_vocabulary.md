@@ -2,7 +2,8 @@
 
 **Last completed lesson reconciled:** 2026-09-16  
 **Last reconciliation performed:** 2026-09-16  
-**Last cumulative review:** 2026-09-11
+**Last cumulative review:** 2026-09-11  
+**Last voice practice:** Not yet recorded — due next lesson
 
 Status meanings: **strong** = recalled independently; **developing** = used with some support or errors; **encountered** = introduced but not yet demonstrated reliably; **unverified** = present in an older tracker without reliable lesson evidence and must not be used as assumed prior knowledge.
 
@@ -106,9 +107,19 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | слободно време | slobodno vreme | free time | unverified; learner reported no memory of prior exposure 2026-09-11 |
 | молам | molam | please / you're welcome | developing; independently recalled 2026-09-07 |
 
+## Recency watchlist
+
+Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
+
+- **Recent (2026-09-16):** `стол`, `маса`, `прозорец`, `врата`, `огледало`, `риба`, `продавница`, `пазар`, `работа`, `утре`, `денес`.
+- **Needs early consolidation:** `огледало / огледалото` (one dropped vowel), `прозорец` (initially confused with `огледало`), `живеам` and `риба` (recent spelling slips).
+- **Weak or becoming stale:** `оди / одиш`, `пијам / пиеш`, `сирење`, `јајца`, `пилешко`, `ајвар`, `јогурт`, greetings and origin phrases.
+- **Overdue/unverified:** `играм`, `читам`, `книги`, `видео игри`, and `слободно време` remain unverified and must be explicitly reintroduced rather than assumed.
+- Update this watchlist after every completed lesson from actual evidence; do not infer practice from teacher-provided text.
+
 ## Items to prioritise next
 
-- Retrieve `прозорец / прозорецот`, `врата / вратата`, and especially `огледало / огледалото` after a delay without vocabulary cues.
+- Next lesson, balance recent retrieval of `прозорец / прозорецот`, `врата / вратата`, and especially `огледало / огледалото` with stale retrieval of older personal-information, food, and movement vocabulary.
 - Continue mixing masculine, feminine, and neuter noun forms; verify that the full base `огледало` is preserved before adding `-то`.
 - Keep practising household nouns as indefinite direct objects until object clitics are intentionally introduced.
 

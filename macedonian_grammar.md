@@ -2,7 +2,8 @@
 
 **Last completed lesson reconciled:** 2026-09-16  
 **Last reconciliation performed:** 2026-09-16  
-**Last cumulative review:** 2026-09-11
+**Last cumulative review:** 2026-09-11  
+**Last voice practice:** Not yet recorded — due next lesson
 
 Status meanings: **developing** = demonstrated but not consistently secure; **introduced** = explained or encountered and needs more retrieval.
 
@@ -58,9 +59,19 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 - Use `дома` directly: `Одам дома`, not `Одам во дома`.
 - Distinguish `купувам` (I buy) from `купуваш` (you buy).
 
+## Recency watchlist
+
+Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
+
+- **Recent (2026-09-16):** three-gender definite noun formation, `дали` questions, third-person `купува`, `сакам да + verb`, frequency placement, and source/place phrases.
+- **Needs early consolidation:** neuter `огледало → огледалото`; matching the requested time word and noun while preserving otherwise-correct sentence grammar.
+- **Weak or becoming stale:** `пијам / пиеш`, `оди / одиш / оди`, `што + verb + subject`, `живеам во`, `јас сум од`, `дома` without `во`, and first/second-person verb contrasts.
+- **Not yet learned:** object clitics and perfective `да купам`; neither may be treated as prior knowledge.
+- Update this watchlist after every completed lesson from actual evidence and proficiency; do not refresh an item solely because the teacher displayed it.
+
 ## Items to prioritise next
 
-- Retrieve masculine `прозорец / прозорецот`, feminine `врата / вратата`, and neuter `огледало / огледалото` after a delay.
+- Next lesson, balance recent retrieval of masculine `прозорец / прозорецот`, feminine `врата / вратата`, and neuter `огледало / огледалото` with older first/second-person, personal-information, movement, and question patterns.
 - Recheck that `огледало` remains intact before adding neuter `-то`; one prompted response dropped the final base vowel.
 - Keep practice with household nouns to indefinite direct objects until object clitics are intentionally introduced.
 

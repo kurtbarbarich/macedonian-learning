@@ -254,12 +254,14 @@ Use this order of evidence:
 
 1. Reconciliation markers and dated evidence agree.
 2. Weekly cumulative review is not due; if it is due, run that instead.
-3. Select one weak or recently introduced grammar pattern for retrieval.
-4. Select one syllabus competency at the learner's current edge.
-5. Confirm its prerequisites from tracker evidence.
-6. Preselect at least two genuinely new, related base words.
-7. Design the stretch prompt and coherent final conversation before beginning.
-8. Deliver one prompt at a time and adapt difficulty from actual responses.
+3. Select at least one recently practised item for consolidation and at least one weak, stale, or overdue item for retrieval, using the tracker recency watchlists.
+4. Confirm that both categories will appear in Review, Retrieval, and later mixed Practice or Conversation.
+5. Check the shared voice-practice marker and schedule a short voice/dictation task if it is due.
+6. Select one syllabus competency at the learner's current edge.
+7. Confirm its prerequisites from tracker evidence.
+8. Preselect at least two genuinely new, related base words.
+9. Design the stretch prompt and coherent final conversation before beginning.
+10. Deliver one prompt at a time and adapt difficulty from actual responses.
 
 ## Evidence for advancing
 

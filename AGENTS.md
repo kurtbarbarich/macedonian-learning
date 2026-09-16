@@ -30,6 +30,8 @@ Do not substitute conversational memory for these files. Conversation history ma
 - Do not use an item marked `unverified` as prior knowledge.
 - Introduce at least two genuinely new base words.
 - Keep an explicit internal phase checklist and do not skip, duplicate, or mislabel phases.
+- In both Review and Retrieval, balance recently practised material with weak, stale, or overdue material; carry both categories into later practice and the final conversation.
+- Include a short voice/dictation activity whenever the voice-practice marker is missing or overdue.
 - Validate every response against both the target prompt and correct Macedonian before grading it.
 - End with the required short conversation.
 
@@ -38,9 +40,11 @@ Do not substitute conversational memory for these files. Conversation history ma
 1. Give the learner a concise recap of new material, successes, corrections, and next retrieval priorities.
 2. Update both vocabulary and grammar trackers with dated, factual evidence.
 3. Record learner errors, teaching corrections, independent successes, new material, and future retrieval priorities.
-4. Set both `Last completed lesson reconciled` and `Last reconciliation performed` markers to the completed lesson date.
-5. Record a cumulative-review date when applicable.
-6. Re-read and verify both files before claiming that progress was saved.
-7. Commit the tracker changes to Git with a concise dated commit message.
+4. Update meaningful-practice recency for every vocabulary and grammar item the learner actually produced, retrieved, transformed, corrected, or used in conversation; teacher examples and passive exposure do not refresh recency.
+5. Record the voice-practice date and mode when voice or dictation occurs.
+6. Set both `Last completed lesson reconciled` and `Last reconciliation performed` markers to the completed lesson date.
+7. Record a cumulative-review date when applicable.
+8. Re-read and verify both files before claiming that progress was saved.
+9. Commit the tracker changes to Git with a concise dated commit message.
 
 Never claim that a file was updated or progress was saved unless the write and verification succeeded.
