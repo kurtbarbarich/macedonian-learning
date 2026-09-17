@@ -1,9 +1,9 @@
 # Macedonian Vocabulary Tracker
 
-**Last completed lesson reconciled:** 2026-09-16  
-**Last reconciliation performed:** 2026-09-16  
+**Last completed lesson reconciled:** 2026-09-17  
+**Last reconciliation performed:** 2026-09-17  
 **Last cumulative review:** 2026-09-11  
-**Last voice practice:** Not yet recorded — due next lesson
+**Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
 Status meanings: **strong** = recalled independently; **developing** = used with some support or errors; **encountered** = introduced but not yet demonstrated reliably; **unverified** = present in an older tracker without reliable lesson evidence and must not be used as assumed prior knowledge.
 
@@ -96,7 +96,14 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | маса | masa | table | developing; introduced 2026-09-15 and independently formed definite `масата`; independently retrieved as an indefinite object 2026-09-16 |
 | прозорец | prozorec | window | developing; introduced 2026-09-16; independently formed `прозорецот` and used the indefinite form after one meaning correction |
 | врата | vrata | door | developing; introduced 2026-09-16; independently formed `вратата` and used the indefinite form in a sentence |
-| огледало | ogledalo | mirror | developing; introduced 2026-09-16; independently formed `огледалото`, with one later omission of the final `о` corrected |
+| огледало | ogledalo | mirror | developing; introduced 2026-09-16; `огледалото` needed one reminder, then was produced correctly 2026-09-17; adjective agreement used independently |
+
+## Adjectives
+
+| Macedonian | Latin | English | Status / evidence |
+|---|---|---|---|
+| голем / голема / големо | golem / golema / golemo | big | developing; introduced 2026-09-17 and matched independently with masculine, feminine, and neuter household nouns |
+| мал / мала / мало | mal / mala / malo | small | developing; introduced 2026-09-17 and matched independently with masculine, feminine, and neuter household nouns |
 
 ## Other encountered language
 
@@ -111,16 +118,17 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
-- **Recent (2026-09-16):** `стол`, `маса`, `прозорец`, `врата`, `огледало`, `риба`, `продавница`, `пазар`, `работа`, `утре`, `денес`.
-- **Needs early consolidation:** `огледало / огледалото` (one dropped vowel), `прозорец` (initially confused with `огледало`), `живеам` and `риба` (recent spelling slips).
-- **Weak or becoming stale:** `оди / одиш`, `пијам / пиеш`, `сирење`, `јајца`, `пилешко`, `ајвар`, `јогурт`, greetings and origin phrases.
+- **Recent (2026-09-17):** `голем / голема / големо`, `мал / мала / мало`, `стол`, `маса`, `прозорец`, `врата`, `огледало`, `пиеш`, `живеам`, `пазар`, `пекара`, `продавница`, `утре`, `дома`.
+- **Needs early consolidation:** adjective agreement without a supplied model; `огледало / огледалото` (needed one reminder); `прозорец` (was not recalled during the voice prompt); `пекарата` (spelled `пекората` once).
+- **Weak or becoming stale:** `оди / одам`, `сирење`, `јајца`, `пилешко`, `ајвар`, `јогурт`, greetings and origin phrases.
 - **Overdue/unverified:** `играм`, `читам`, `книги`, `видео игри`, and `слободно време` remain unverified and must be explicitly reintroduced rather than assumed.
 - Update this watchlist after every completed lesson from actual evidence; do not infer practice from teacher-provided text.
 
 ## Items to prioritise next
 
-- Next lesson, balance recent retrieval of `прозорец / прозорецот`, `врата / вратата`, and especially `огледало / огледалото` with stale retrieval of older personal-information, food, and movement vocabulary.
-- Continue mixing masculine, feminine, and neuter noun forms; verify that the full base `огледало` is preserved before adding `-то`.
+- Next lesson, retrieve `голем / голема / големо` and `мал / мала / мало` without a model and mix them with masculine, feminine, and neuter nouns.
+- Recheck `прозорец` without a vocabulary cue and `огледало / огледалото` after a delay.
+- Balance these recent household items with stale food, greetings/origin, and movement vocabulary.
 - Keep practising household nouns as indefinite direct objects until object clitics are intentionally introduced.
 
 - Retrieve `дали` yes/no questions after a delay, especially with explicit `тој` / `таа` and frequency words.
@@ -132,6 +140,15 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Treat `читам`, `играм`, `книги`, `видео игри`, and `слободно време` as unverified—not learned—until explicitly introduced and practised.
 
 ## Reconciliation evidence
+
+### 2026-09-17
+
+- Independently retrieved `пиеш`, `живеам во Перт`, `Утре тој оди дома`, `вратата`, and the location phrase `во пекарата`; `пекората` was corrected to `пекарата`.
+- `огледалото` was not initially recalled, then was produced correctly after one reminder; `прозорец` was not recalled during the later voice prompt and was supplied.
+- Introduced adjective agreement with `голем / голема / големо` and `мал / мала / мало`; correctly matched the forms with `прозорец`, `врата`, `огледало`, `стол`, and `маса` across supported, transformation, mixed-question, and conversation tasks.
+- A first attempt at “small chair” produced the valid but mismatched `мала маса`; the requested `мал стол` was then produced correctly.
+- Completed a read-aloud/voice response for `голем прозорец`, returned as Latin transcription. Word choice was verified from text; pronunciation was not assessed.
+- In conversation, `Од на пазар` was corrected to `на пазарот`, and positive `купувам` after `Не` was corrected to `Не, не купувам...`.
 
 ### 2026-09-16
 
