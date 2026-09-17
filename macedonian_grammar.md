@@ -1,9 +1,9 @@
 # Macedonian Grammar and Progress Tracker
 
-**Last completed lesson reconciled:** 2026-09-16  
-**Last reconciliation performed:** 2026-09-16  
+**Last completed lesson reconciled:** 2026-09-17  
+**Last reconciliation performed:** 2026-09-17  
 **Last cumulative review:** 2026-09-11  
-**Last voice practice:** Not yet recorded — due next lesson
+**Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
 Status meanings: **developing** = demonstrated but not consistently secure; **introduced** = explained or encountered and needs more retrieval.
 
@@ -31,7 +31,8 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 | `дома` without `во` | say `Одам дома` / `Сум дома`, not `во дома` | developing |
 | suffixed definite article | e.g. masculine `лебот`/`пазарот`/`викендот`; feminine `продавницата`; Macedonian attaches “the” to the noun | developing; focused practice completed 2026-09-07; independently formed `столот` and `масата` from new nouns 2026-09-15 |
 | basic noun-gender recognition | common consonant-final nouns such as `стол` are masculine; common `-а` nouns such as `маса` are feminine; many `-о` nouns such as `огледало` are neuter, while endings are useful patterns rather than infallible rules | developing; masculine/feminine introduced 2026-09-15 and neuter added 2026-09-16; correctly applied across three definite forms |
-| neuter suffixed definite article | common neuter `-о` noun + `-то`, preserving the base: `огледало → огледалото` | developing; formed correctly several times 2026-09-16, with one corrected `огледалот` omission |
+| neuter suffixed definite article | common neuter `-о` noun + `-то`, preserving the base: `огледало → огледалото` | developing; formed correctly several times 2026-09-16; needed one recall reminder and then succeeded 2026-09-17 |
+| basic adjective agreement | common adjectives match noun gender: masculine `голем/мал`, feminine `голема/мала`, neuter `големо/мало` | developing; introduced 2026-09-17 and applied correctly across supported, transformed, mixed, and conversational sentences |
 
 ## Demonstrated sentence patterns
 
@@ -63,16 +64,17 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
-- **Recent (2026-09-16):** three-gender definite noun formation, `дали` questions, third-person `купува`, `сакам да + verb`, frequency placement, and source/place phrases.
-- **Needs early consolidation:** neuter `огледало → огледалото`; matching the requested time word and noun while preserving otherwise-correct sentence grammar.
-- **Weak or becoming stale:** `пијам / пиеш`, `оди / одиш / оди`, `што + verb + subject`, `живеам во`, `јас сум од`, `дома` without `во`, and first/second-person verb contrasts.
+- **Recent (2026-09-17):** three-gender adjective agreement, definite noun formation, `дали` questions, third-person `купува`, `пиеш`, `живеам во`, `дома` without `во`, negation, and source/place phrases.
+- **Needs early consolidation:** adjective agreement without scaffolding; neutral `што + verb + subject` order; `огледало → огледалото`; choosing `на пазарот` without blending it with `од`.
+- **Weak or becoming stale:** `пијам`, `одам / одиш`, `јас сум од`, `сакам да + verb`, and broader first/second-person verb contrasts.
 - **Not yet learned:** object clitics and perfective `да купам`; neither may be treated as prior knowledge.
 - Update this watchlist after every completed lesson from actual evidence and proficiency; do not refresh an item solely because the teacher displayed it.
 
 ## Items to prioritise next
 
-- Next lesson, balance recent retrieval of masculine `прозорец / прозорецот`, feminine `врата / вратата`, and neuter `огледало / огледалото` with older first/second-person, personal-information, movement, and question patterns.
-- Recheck that `огледало` remains intact before adding neuter `-то`; one prompted response dropped the final base vowel.
+- Next lesson, retrieve masculine, feminine, and neuter adjective forms without a model and contrast them across `прозорец`, `врата`, `огледало`, `стол`, and `маса`.
+- Recheck neutral `Што јаде таа?` after the learner first used contrastive `Што таа јаде?` and then corrected it.
+- Recheck `на пазарот` versus `од пазарот`; `Од на пазар` appeared once in conversation.
 - Keep practice with household nouns to indefinite direct objects until object clitics are intentionally introduced.
 
 - Retrieve `дали` yes/no question order after a delay and keep explicit subjects when the English target names the person.
@@ -84,6 +86,17 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Recycle `секогаш` and `понекогаш` in less-supported mixed sentences.
 
 ## Reconciliation evidence
+
+### 2026-09-17
+
+- Independently retrieved the second-person `пиеш`, `живеам во + city`, third-person `оди`, `дома` without `во`, and feminine definite formation `врата → вратата`.
+- Initially used contrastive `Што таа јаде?` for a requested neutral question, then correctly rewrote `Што јаде таа?`.
+- Correctly changed `на пекарата` to the target location preposition `во`, with one spelling correction from `пекората` to `пекарата`.
+- Introduced three-gender adjective agreement and correctly produced `голема врата`, `мало огледало`, `голем прозорец`, `мал стол`, and `голема маса`, then maintained agreement in full statements, a `дали` question, a transformation, a stretch sentence, and conversation.
+- The stretch sentence correctly combined time, first- and third-person verbs, `ама`, adjective agreement, `на пазарот`, and source `од продавницата`.
+- In conversation, blended `од` and `на` as `Од на пазар`; corrected to `Купувам мала врата на пазарот.`
+- Initially answered a negative question with `Не купувам...`, leaving the verb positive; then correctly produced `Не, не купувам големо огледало.`
+- Voice/read-aloud activity completed through a Latin text transcription of `голем прозорец`; the grammatical response was verified, but pronunciation was not assessed.
 
 ### 2026-09-16
 
