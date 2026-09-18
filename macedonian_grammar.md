@@ -1,8 +1,8 @@
 # Macedonian Grammar and Progress Tracker
 
-**Last completed lesson reconciled:** 2026-09-17  
-**Last reconciliation performed:** 2026-09-17  
-**Last cumulative review:** 2026-09-11  
+**Last completed lesson reconciled:** 2026-09-18  
+**Last reconciliation performed:** 2026-09-18  
+**Last cumulative review:** 2026-09-18  
 **Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
 Status meanings: **developing** = demonstrated but not consistently secure; **introduced** = explained or encountered and needs more retrieval.
@@ -33,6 +33,7 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 | basic noun-gender recognition | common consonant-final nouns such as `стол` are masculine; common `-а` nouns such as `маса` are feminine; many `-о` nouns such as `огледало` are neuter, while endings are useful patterns rather than infallible rules | developing; masculine/feminine introduced 2026-09-15 and neuter added 2026-09-16; correctly applied across three definite forms |
 | neuter suffixed definite article | common neuter `-о` noun + `-то`, preserving the base: `огледало → огледалото` | developing; formed correctly several times 2026-09-16; needed one recall reminder and then succeeded 2026-09-17 |
 | basic adjective agreement | common adjectives match noun gender: masculine `голем/мал`, feminine `голема/мала`, neuter `големо/мало` | developing; introduced 2026-09-17 and applied correctly across supported, transformed, mixed, and conversational sentences |
+| basic possessive agreement | `мој / моја / мое` agrees with masculine, feminine, and neuter nouns | developing; introduced 2026-09-18 and independently matched across three genders and combined with adjective agreement |
 
 ## Demonstrated sentence patterns
 
@@ -64,10 +65,10 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
-- **Recent (2026-09-17):** three-gender adjective agreement, definite noun formation, `дали` questions, third-person `купува`, `пиеш`, `живеам во`, `дома` without `во`, negation, and source/place phrases.
-- **Needs early consolidation:** adjective agreement without scaffolding; neutral `што + verb + subject` order; `огледало → огледалото`; choosing `на пазарот` without blending it with `од`.
-- **Weak or becoming stale:** `пијам`, `одам / одиш`, `јас сум од`, `сакам да + verb`, and broader first/second-person verb contrasts.
-- **Not yet learned:** object clitics and perfective `да купам`; neither may be treated as prior knowledge.
+- **Recent (2026-09-18):** `мој / моја / мое` agreement, three-gender adjective agreement, first/second/third-person present forms, `дали` questions, neutral `што` order, `сакам да + verb`, `дома` without `во`, origin/residence, frequency placement, and source/place phrases.
+- **Needs early consolidation:** possession forms after a delay; adjective and possessive agreement together; `сирење` spelling; continued contrast of `на пазарот`, `во продавницата`, and source `од`.
+- **Weak or becoming stale:** negation in longer answers, `јас сум од` after a longer delay, and broader first/second-person contrasts beyond `пијам / пиеш`.
+- **Not yet learned:** plural adjective/noun formation, object clitics, and perfective `да купам`; none may be treated as prior knowledge.
 - Update this watchlist after every completed lesson from actual evidence and proficiency; do not refresh an item solely because the teacher displayed it.
 
 ## Items to prioritise next
@@ -86,6 +87,16 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Recycle `секогаш` and `понекогаш` in less-supported mixed sentences.
 
 ## Reconciliation evidence
+
+### 2026-09-18 — cumulative review
+
+- Completed the scheduled cumulative review with 22 learner responses across the full demonstrated history.
+- Independently retrieved origin/residence, `сакам да + present`, `одам / одиш / оди`, `пијам / пиеш`, `дома` without `во`, third-person statements, neutral `што` order, and `дали` questions.
+- Correctly maintained three-gender adjective agreement in recent household vocabulary and mixed it with older place, time, frequency, and food patterns.
+- Introduced possessive agreement `мој / моја / мое`; independently matched all three forms and combined them with `мал / мала / мало` and `голем / голема / големо`.
+- Produced natural `Што јаде денес таа?`; this valid neutral order was accepted alongside the earlier beginner model `Што јаде таа денес?`.
+- Teacher error: a retrieval prompt required an untaught plural noun/adjective form. The prompt was withdrawn, the response was not graded, and a singular replacement was answered correctly.
+- No voice activity was required; the shared voice marker remains 2026-09-17.
 
 ### 2026-09-17
 

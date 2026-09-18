@@ -1,8 +1,8 @@
 # Macedonian Vocabulary Tracker
 
-**Last completed lesson reconciled:** 2026-09-17  
-**Last reconciliation performed:** 2026-09-17  
-**Last cumulative review:** 2026-09-11  
+**Last completed lesson reconciled:** 2026-09-18  
+**Last reconciliation performed:** 2026-09-18  
+**Last cumulative review:** 2026-09-18  
 **Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
 Status meanings: **strong** = recalled independently; **developing** = used with some support or errors; **encountered** = introduced but not yet demonstrated reliably; **unverified** = present in an older tracker without reliable lesson evidence and must not be used as assumed prior knowledge.
@@ -87,6 +87,7 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | риба | riba | fish | developing; introduced and used independently in questions and conversation 2026-09-14 |
 | ориз | oriz | rice | developing; introduced and used independently in questions and conversation 2026-09-14 |
 | мекица | mekica | mekica (fried dough) | encountered; independently introduced by learner in final conversation 2026-09-13 |
+| кроасан | kroasan | croissant | encountered; learner attempted `кросана` in conversation 2026-09-18 and received the spelling correction |
 
 ## Household objects
 
@@ -97,6 +98,14 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | прозорец | prozorec | window | developing; introduced 2026-09-16; independently formed `прозорецот` and used the indefinite form after one meaning correction |
 | врата | vrata | door | developing; introduced 2026-09-16; independently formed `вратата` and used the indefinite form in a sentence |
 | огледало | ogledalo | mirror | developing; introduced 2026-09-16; `огледалото` needed one reminder, then was produced correctly 2026-09-17; adjective agreement used independently |
+
+## Personal items
+
+| Macedonian | Latin | English | Status / evidence |
+|---|---|---|---|
+| телефон | telefon | phone | developing; introduced 2026-09-18 and independently combined with masculine `мој` and `мал` |
+| книга | kniga | book | developing; explicitly introduced as singular 2026-09-18 and independently combined with feminine `моја` and `голема` |
+| пенкало | penkalo | pen | developing; introduced 2026-09-18 and independently combined with neuter `мое` and `мало` |
 
 ## Adjectives
 
@@ -118,10 +127,10 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
-- **Recent (2026-09-17):** `голем / голема / големо`, `мал / мала / мало`, `стол`, `маса`, `прозорец`, `врата`, `огледало`, `пиеш`, `живеам`, `пазар`, `пекара`, `продавница`, `утре`, `дома`.
-- **Needs early consolidation:** adjective agreement without a supplied model; `огледало / огледалото` (needed one reminder); `прозорец` (was not recalled during the voice prompt); `пекарата` (spelled `пекората` once).
-- **Weak or becoming stale:** `оди / одам`, `сирење`, `јајца`, `пилешко`, `ајвар`, `јогурт`, greetings and origin phrases.
-- **Overdue/unverified:** `играм`, `читам`, `книги`, `видео игри`, and `слободно време` remain unverified and must be explicitly reintroduced rather than assumed.
+- **Recent (2026-09-18):** `мој / моја / мое`, `телефон`, singular `книга`, `пенкало`, adjective agreement, `живеам`, `Австралија`, `Перт`, `одам / одиш / оди`, `пијам / пиеш`, `сакам да`, `дома`, `работа`, `риба`, `ориз`, `сирење`, `леб`, `бурек`, `сок`, `пекарата`, `продавницата`, and `пазарот`.
+- **Needs early consolidation:** possession forms after a delay; `сирење` spelling (written `сиренје` once); `кроасан` spelling; `огледало / огледалото` and `прозорец` after a further delay.
+- **Weak or becoming stale:** `јајца`, `пилешко`, `ајвар`, `јогурт`, greetings, and `мило ми е`.
+- **Overdue/unverified:** `играм`, `читам`, plural `книги`, `видео игри`, and `слободно време` remain unverified and must be explicitly reintroduced rather than assumed.
 - Update this watchlist after every completed lesson from actual evidence; do not infer practice from teacher-provided text.
 
 ## Items to prioritise next
@@ -140,6 +149,17 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Treat `читам`, `играм`, `книги`, `видео игри`, and `слободно време` as unverified—not learned—until explicitly introduced and practised.
 
 ## Reconciliation evidence
+
+### 2026-09-18 — cumulative review
+
+- Completed a 22-response cumulative review spanning introductions/origin, movement, first/second/third-person verbs, questions, negation, place/source phrases, food, household nouns, definiteness, and adjective agreement.
+- Independently produced `Јас сум од Австралија ама живеам во Перт`, `Утре одиш на работа`, `Тој оди дома`, and `Сакам да пијам кафе дома`.
+- Correctly transformed `пијам → пиеш`, produced natural neutral `Што јаде денес таа?`, and formed a correct `дали` question with `понекогаш`, `голем прозорец`, and `на пазарот`.
+- Introduced `телефон`, singular `книга`, and `пенкало`; independently matched them with `мој / моја / мое` and with masculine, feminine, and neuter adjective forms.
+- Recalled `риба`, `ориз`, `сирење`, `леб`, `пекарата`, `бурек`, and `сок` in mixed practice and conversation.
+- Spelling slips: `сиренје` was corrected to `сирење`; learner-introduced `кросана` received the correction `кроасан`.
+- Teacher error: one retrieval prompt requested untaught plural “big windows.” It was withdrawn and replaced with singular `голем прозорец`; the learner’s response to the withdrawn prompt is not treated as an error.
+- No voice activity was required; the last recorded voice/read-aloud practice remains 2026-09-17.
 
 ### 2026-09-17
 
