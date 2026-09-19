@@ -1,7 +1,7 @@
 # Macedonian Grammar and Progress Tracker
 
-**Last completed lesson reconciled:** 2026-09-18  
-**Last reconciliation performed:** 2026-09-18  
+**Last completed lesson reconciled:** 2026-09-19  
+**Last reconciliation performed:** 2026-09-19  
 **Last cumulative review:** 2026-09-18  
 **Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
@@ -34,6 +34,7 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 | neuter suffixed definite article | common neuter `-о` noun + `-то`, preserving the base: `огледало → огледалото` | developing; formed correctly several times 2026-09-16; needed one recall reminder and then succeeded 2026-09-17 |
 | basic adjective agreement | common adjectives match noun gender: masculine `голем/мал`, feminine `голема/мала`, neuter `големо/мало` | developing; introduced 2026-09-17 and applied correctly across supported, transformed, mixed, and conversational sentences |
 | basic possessive agreement | `мој / моја / мое` agrees with masculine, feminine, and neuter nouns | developing; introduced 2026-09-18 and independently matched across three genders and combined with adjective agreement |
+| `имам / имаш / има` | present-tense “have/has” agrees with the subject: `Имам брат`, `Имаш брат`, `Таа има сестра` | developing; introduced 2026-09-19 and used in statements, a `дали` question, transformations, mixed practice, and conversation |
 
 ## Demonstrated sentence patterns
 
@@ -65,16 +66,17 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
-- **Recent (2026-09-18):** `мој / моја / мое` agreement, three-gender adjective agreement, first/second/third-person present forms, `дали` questions, neutral `што` order, `сакам да + verb`, `дома` without `во`, origin/residence, frequency placement, and source/place phrases.
-- **Needs early consolidation:** possession forms after a delay; adjective and possessive agreement together; `сирење` spelling; continued contrast of `на пазарот`, `во продавницата`, and source `од`.
-- **Weak or becoming stale:** negation in longer answers, `јас сум од` after a longer delay, and broader first/second-person contrasts beyond `пијам / пиеш`.
+- **Recent (2026-09-19):** `имам / имаш / има`, explicit subjects in `дали` questions, three-gender adjective agreement, `на пазарот` versus source `од`, `дома` without `во`, first/second/third-person present forms, and negation in a short answer.
+- **Needs early consolidation:** `имам / имаш / има` after a delay; ordinary `што + verb + subject` order without technical labels; `јаде` versus `јадеш`; masculine `мал телефон`; `дома` versus `одам`; and possessive `мој / моја / мое` after a delay.
+- **Weak or becoming stale:** `јас сум од` and `живеам во` after a longer delay, `сакам да + verb`, and broader first/second-person contrasts beyond `пијам / пиеш`.
 - **Not yet learned:** plural adjective/noun formation, object clitics, and perfective `да купам`; none may be treated as prior knowledge.
 - Update this watchlist after every completed lesson from actual evidence and proficiency; do not refresh an item solely because the teacher displayed it.
 
 ## Items to prioritise next
 
-- Next lesson, retrieve masculine, feminine, and neuter adjective forms without a model and contrast them across `прозорец`, `врата`, `огледало`, `стол`, and `маса`.
-- Recheck neutral `Што јаде таа?` after the learner first used contrastive `Што таа јаде?` and then corrected it.
+- Next lesson, retrieve `имам / имаш / има`, `брат`, and `сестра` after a delay and mix them with an explicit-subject `дали` question.
+- Recheck ordinary `Што јаде таа?` using plain English instructions; avoid the unexplained label “neutral beginner form.”
+- Retrieve masculine, feminine, and neuter adjective forms without a model, especially masculine `мал телефон`.
 - Recheck `на пазарот` versus `од пазарот`; `Од на пазар` appeared once in conversation.
 - Keep practice with household nouns to indefinite direct objects until object clitics are intentionally introduced.
 
@@ -87,6 +89,17 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Recycle `секогаш` and `понекогаш` in less-supported mixed sentences.
 
 ## Reconciliation evidence
+
+### 2026-09-19
+
+- Completed a normal lesson with all required phases and a four-turn conversation.
+- Introduced present `имам / имаш / има`; independently used all three persons in statements, transformation, question formation, mixed practice, and conversation.
+- Correctly formed `Дали тој секогаш јаде пилешко на работа?` and `Дали таа има сестра?`; initial subject omission in `Дали има сестра?` was acknowledged as grammatical in context before the explicit standalone subject was restored.
+- Correctly contrasted `на пазарот` with source `од продавницата` and maintained `дома` without `во`.
+- The instruction “neutral beginner form” was too abstract. After plain-language clarification, the learner produced correct `Што јадеш денес?` for second person; third-person `Што јаде таа денес?` still required a model and should be retrieved later without jargon.
+- Corrected adjective/noun agreement from `мало телефоно` to `мал телефон`, then correctly produced `голема книга`, `мало пенкало`, and `мало огледало` in longer sentences.
+- In conversation, corrected the lexical mismatch `одам` to `дома` and independently rewrote `Не, имам мало огледало дома`.
+- No voice activity was required; the shared voice marker remains 2026-09-17.
 
 ### 2026-09-18 — cumulative review
 

@@ -1,7 +1,7 @@
 # Macedonian Vocabulary Tracker
 
-**Last completed lesson reconciled:** 2026-09-18  
-**Last reconciliation performed:** 2026-09-18  
+**Last completed lesson reconciled:** 2026-09-19  
+**Last reconciliation performed:** 2026-09-19  
 **Last cumulative review:** 2026-09-18  
 **Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
@@ -59,6 +59,9 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | пиеш | piesh | you drink / are drinking | developing; recalled on 2026-09-06 |
 | купувам | kupuvam | I buy / am buying | developing; consolidated 2026-09-06 |
 | купуваш | kupuvash | you buy / are buying | developing; consolidated 2026-09-06 |
+| имам | imam | I have | developing; introduced and used independently 2026-09-19 |
+| имаш | imash | you have | developing; independently produced by transformation and in practice 2026-09-19 |
+| има | ima | he/she has | developing; used correctly with explicit `тој` and `таа` 2026-09-19 |
 | правам | pravam | I do / make | encountered |
 | играм | igram | I play | unverified; learner reported no memory of prior exposure 2026-09-11 |
 | читам | chitam | I read | unverified; learner reported no memory of prior exposure 2026-09-11 |
@@ -99,6 +102,13 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | врата | vrata | door | developing; introduced 2026-09-16; independently formed `вратата` and used the indefinite form in a sentence |
 | огледало | ogledalo | mirror | developing; introduced 2026-09-16; `огледалото` needed one reminder, then was produced correctly 2026-09-17; adjective agreement used independently |
 
+## Family
+
+| Macedonian | Latin | English | Status / evidence |
+|---|---|---|---|
+| брат | brat | brother | developing; introduced and used independently with `имам` and `имаш` 2026-09-19 |
+| сестра | sestra | sister | developing; introduced and used independently with `таа има` 2026-09-19 |
+
 ## Personal items
 
 | Macedonian | Latin | English | Status / evidence |
@@ -122,14 +132,15 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | книги | knigi | books | unverified; learner reported no memory of prior exposure 2026-09-11 |
 | слободно време | slobodno vreme | free time | unverified; learner reported no memory of prior exposure 2026-09-11 |
 | молам | molam | please / you're welcome | developing; independently recalled 2026-09-07 |
+| пицерија | picerija | pizzeria / pizza shop | encountered; supplied as the natural correction to learner-created `пица продавница` 2026-09-19; not yet independently produced |
 
 ## Recency watchlist
 
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
-- **Recent (2026-09-18):** `мој / моја / мое`, `телефон`, singular `книга`, `пенкало`, adjective agreement, `живеам`, `Австралија`, `Перт`, `одам / одиш / оди`, `пијам / пиеш`, `сакам да`, `дома`, `работа`, `риба`, `ориз`, `сирење`, `леб`, `бурек`, `сок`, `пекарата`, `продавницата`, and `пазарот`.
-- **Needs early consolidation:** possession forms after a delay; `сирење` spelling (written `сиренје` once); `кроасан` spelling; `огледало / огледалото` and `прозорец` after a further delay.
-- **Weak or becoming stale:** `јајца`, `пилешко`, `ајвар`, `јогурт`, greetings, and `мило ми е`.
+- **Recent (2026-09-19):** `имам / имаш / има`, `брат`, `сестра`, `јајца`, `јогурт`, `пилешко`, `пица`, `телефон`, `книга`, `пенкало`, `огледало`, adjective agreement, `дома`, `работа`, `продавницата`, and `пазарот`.
+- **Needs early consolidation:** `имам / имаш / има` after a delay; `брат` and `сестра`; `јаде / јадеш`; masculine `мал телефон`; `дома` versus `одам`; `продавницата` spelling; `кроасан / кроасани` spelling; and `пицерија`, which remains encountered only.
+- **Weak or becoming stale:** `ајвар`, greetings beyond `здраво`, `мило ми е`, origin/residence, `прозорец`, and `огледалото` as a definite form.
 - **Overdue/unverified:** `играм`, `читам`, plural `книги`, `видео игри`, and `слободно време` remain unverified and must be explicitly reintroduced rather than assumed.
 - Update this watchlist after every completed lesson from actual evidence; do not infer practice from teacher-provided text.
 
@@ -149,6 +160,18 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Treat `читам`, `играм`, `книги`, `видео игри`, and `слободно време` as unverified—not learned—until explicitly introduced and practised.
 
 ## Reconciliation evidence
+
+### 2026-09-19
+
+- Completed a normal lesson with 18 graded learner responses across review, retrieval, new material, practice, and a four-turn conversation.
+- Introduced `имам / имаш / има` and the family words `брат` and `сестра`; independently produced `Имам брат`, `Имаш брат`, `Таа има сестра`, and explicit-subject `Дали таа има сестра?`.
+- Successfully retrieved stale `јајца`, `јогурт`, and `пилешко`, plus recent adjective agreement, `дали`, `на пазарот`, and source `од продавницата`.
+- Initially substituted `сирење` for requested `јајца` twice, then produced `Јадам јајца дома`; spelling `сиренје` was corrected to `сирење`.
+- The prompt label “neutral beginner form” was unclear to the learner. After clarification, the learner showed correct second-person `Што јадеш денес?`; the requested third-person form `Што јаде таа денес?` required a model and was then reproduced with mixed Latin `taa`.
+- Corrected masculine agreement and noun form from `мало телефоно` to `мал телефон`; later maintained feminine and neuter agreement in `голема книга`, `мало пенкало`, and `мало огледало`.
+- Corrected `шродавницата` to `продавницата` and `одам` to `дома` in conversation. The learner then independently produced `Не, имам мало огледало дома`.
+- Learner used plural `кроасани` with an initial spelling attempt `кростани`; `пицерија` was supplied as the natural word after learner-created `пица продавница`, so it remains encountered rather than independently retrieved.
+- No voice activity was required; the shared voice marker remains 2026-09-17.
 
 ### 2026-09-18 — cumulative review
 
