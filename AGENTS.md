@@ -28,7 +28,7 @@ Do not substitute conversational memory for these files. Conversation history ma
 - Include Latin transliteration for genuinely new Macedonian material.
 - Never assume that `encountered` means learned or independently retrievable.
 - Do not use an item marked `unverified` as prior knowledge.
-- Introduce at least two genuinely new base words.
+- Introduce at least two genuinely new base words in normal lessons. The weekly cumulative review is review-only: no new vocabulary or grammar.
 - Keep an explicit internal phase checklist and do not skip, duplicate, or mislabel phases.
 - In both Review and Retrieval, balance recently practised material with weak, stale, or overdue material; carry both categories into later practice and the final conversation.
 - Include a short voice/dictation activity whenever the voice-practice marker is missing or overdue.
