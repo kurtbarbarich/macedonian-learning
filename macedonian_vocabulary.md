@@ -1,7 +1,7 @@
 # Macedonian Vocabulary Tracker
 
-**Last completed lesson reconciled:** 2026-09-19  
-**Last reconciliation performed:** 2026-09-19  
+**Last completed lesson reconciled:** 2026-09-22  
+**Last reconciliation performed:** 2026-09-22  
 **Last cumulative review:** 2026-09-18  
 **Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
@@ -113,6 +113,8 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 
 | Macedonian | Latin | English | Status / evidence |
 |---|---|---|---|
+| клуч | ključ | key | developing; introduced and independently used with кој/мал 2026-09-22 |
+| торба | torba | bag | developing; introduced and independently used with која/мала/голема 2026-09-22 |
 | телефон | telefon | phone | developing; introduced 2026-09-18 and independently combined with masculine `мој` and `мал` |
 | книга | kniga | book | developing; explicitly introduced as singular 2026-09-18 and independently combined with feminine `моја` and `голема` |
 | пенкало | penkalo | pen | developing; introduced 2026-09-18 and independently combined with neuter `мое` and `мало` |
@@ -135,6 +137,8 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | пицерија | picerija | pizzeria / pizza shop | encountered; supplied as the natural correction to learner-created `пица продавница` 2026-09-19; not yet independently produced |
 
 ## Recency watchlist
+
+- **2026-09-22:** Recently practised: клуч, торба, мал/мала/голема, имам/има, сестра, живеам во Перт, јаде/јадеш, риба, ориз, дома, на пазарот. Revisit кое, пијам spelling, and question order. Voice practice is due next lesson.
 
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
@@ -160,6 +164,14 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Treat `читам`, `играм`, `книги`, `видео игри`, and `слободно време` as unverified—not learned—until explicitly introduced and practised.
 
 ## Reconciliation evidence
+
+### 2026-09-22
+
+- Completed four Review, four Retrieval, two new-material, five Practice prompts, and a four-turn market conversation.
+- Introduced `клуч` (ključ, key) and `торба` (torba, bag). Independently produced `Кој клуч?`, `Која торба?`, `Кој клуч е мал?`, and `Таа има голема торба`. Self-corrected `маја` to `мала` in a mixed question.
+- Retrieved `живеам во Перт` twice, `риба`, `работа`, `ориз`, `сестра`, `дома`, `на пазарот`, and `мал телефон`. Spelled `имам` as `Овам` and `пијам` as `пиам`; teacher supplied corrections.
+- Initially wrote `мала` for requested “big,” then corrected to `голема`. Wrote `Којо пенкало` for `Кое пенкало`.
+- `да купам`, `ли`, and `твојата` appeared only in teacher examples/questions and are not learned. No voice activity; last recorded practice 2026-09-17, now due.
 
 ### 2026-09-19
 
