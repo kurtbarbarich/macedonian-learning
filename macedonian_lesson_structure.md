@@ -59,7 +59,7 @@ Review and Retrieval must remain distinct. If they would test the same thing in 
 - When the teacher gives an incorrect correction, explicitly acknowledge it and ensure the tracker records the learner's original answer accurately.
 - Distinguish recognition from independent recall; encountering a word does not mean it is mastered.
 - Recycle weak and stale items using spaced retrieval. Do not limit recycling to material from the previous one or two lessons.
-- Introduce **at least two genuinely new base words in every lesson**, including a weekly review lesson. Inflected or definite forms of the same lemma count as one word: for example, `пекара` and `пекарата` are one new word, not two.
+- Introduce **at least two genuinely new base words in every normal lesson**. A review-only lesson introduces no new vocabulary or grammar. Inflected or definite forms of the same lemma count as one word: for example, `пекара` and `пекарата` are one new word, not two.
 - Check the vocabulary tracker before selecting new words. A word already encountered by the learner does not count toward the two-word minimum.
 - Accept natural word-order variation where valid, but teach the clearest beginner form first.
 - Select the lesson's new vocabulary before teaching by checking the tracker. Prefer at least two words from one practical semantic group so they reinforce each other.
@@ -96,12 +96,13 @@ Review and Retrieval must remain distinct. If they would test the same thing in 
 
 ## Weekly cumulative review
 
-- Run one expanded cumulative-review lesson every seven days. Schedule it automatically when seven days have passed since the previous cumulative review; do not wait for the learner to request it.
+- Run one expanded **review-only** lesson every seven days. Schedule it automatically when seven days have passed since the previous cumulative review; do not wait for the learner to request it.
 - Until the first cumulative review is recorded, treat it as due at the next lesson.
 - The review must sample the full learning history, not merely the previous week. Prioritise vocabulary and grammar that are weak, old, or have not appeared recently—for example `живеам`, introductions, origin, likes/wants, older verbs, locations, questions, and shopping language.
 - Use broad active recall: English-to-Macedonian production, Macedonian comprehension, verb/person changes, sentence building, error correction, and a longer mixed conversation.
 - Keep the one-question-at-a-time format, but make this lesson larger than a normal lesson: normally about 22–28 short learner responses.
-- Still introduce at least two new base words, but keep the new grammar load light so cumulative retrieval remains the focus.
+- Introduce **no new base words, grammar, or patterns**. Every prompt uses previously encountered material; distinguish encountered from independently retrievable and supply a brief reminder where needed.
+- Adapt the normal lesson phases for this lesson: Review, distinct Retrieval, mixed Practice, and final conversation, followed by the progress update. Omit New material entirely. Record it explicitly as a review-only lesson in both trackers.
 - Record the cumulative review date and specific strengths/gaps in both trackers so the next weekly review can target neglected material rather than repeating the same sample.
 
 ## Determine the next lesson dynamically
