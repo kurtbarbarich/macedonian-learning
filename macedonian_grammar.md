@@ -1,7 +1,7 @@
 # Macedonian Grammar and Progress Tracker
 
-**Last completed lesson reconciled:** 2026-09-19  
-**Last reconciliation performed:** 2026-09-19  
+**Last completed lesson reconciled:** 2026-09-22  
+**Last reconciliation performed:** 2026-09-22  
 **Last cumulative review:** 2026-09-18  
 **Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
@@ -36,6 +36,8 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 | basic possessive agreement | `мој / моја / мое` agrees with masculine, feminine, and neuter nouns | developing; introduced 2026-09-18 and independently matched across three genders and combined with adjective agreement |
 | `имам / имаш / има` | present-tense “have/has” agrees with the subject: `Имам брат`, `Имаш брат`, `Таа има сестра` | developing; introduced 2026-09-19 and used in statements, a `дали` question, transformations, mixed practice, and conversation |
 
+| `кој / која / кое` + noun | “which” agrees with masculine, feminine, neuter nouns: `кој клуч`, `која торба`, `кое пенкало` | developing; masculine/feminine independently used 2026-09-22; neuter `кое` needed correction from `којо` |
+
 ## Demonstrated sentence patterns
 
 - `Одам дома.` — I am going home.
@@ -64,6 +66,8 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 
 ## Recency watchlist
 
+- **2026-09-22:** Recent meaningful practice includes кој/која, adjective agreement, имам/има, живеам во Перт, дали, јадеш/јаде, понекогаш, дома, на пазарот, and сакам да. Revisit neuter кое, пијам spelling, plain што/која + verb + subject questions, and voice practice next lesson.
+
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
 - **Recent (2026-09-19):** `имам / имаш / има`, explicit subjects in `дали` questions, three-gender adjective agreement, `на пазарот` versus source `од`, `дома` without `во`, first/second/third-person present forms, and negation in a short answer.
@@ -89,6 +93,14 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Recycle `секогаш` and `понекогаш` in less-supported mixed sentences.
 
 ## Reconciliation evidence
+
+### 2026-09-22
+
+- Completed four Review, four Retrieval, two new-material, five Practice prompts, and four conversation turns.
+- Introduced interrogative agreement `кој / која / кое` with masculine `клуч`, feminine `торба`, and neuter `пенкало`. Independently used masculine and feminine in short questions and mixed sentences. `Којо пенкало` needed correction to `Кое пенкало`.
+- Retrieved `Дали таа има сестра?`, `Јадеш ориз дома`, `Живеам во Перт`, `Таа понекогаш јаде риба на работа`, and `сакам да` with one spelling correction `пиам` to `пијам`. `Што таа јаде денес?` was valid with contrastive emphasis; plain question order was modelled.
+- Corrected a meaning mismatch `Моја книга е мала` to `Моја книга е голема`. `Која торба таа има дома?` conveyed the meaning; teacher modelled more natural `Која торба има таа дома?`.
+- Conversation included `Сакам да купувам мала торба`, `Да, имам`, `Живеам во Перт`, and `Таа има голема торба`. Teacher mentioned bounded `да купам` and used `ли`/`твојата` without teaching them; they are not demonstrated knowledge. No voice activity; due next lesson.
 
 ### 2026-09-19
 
