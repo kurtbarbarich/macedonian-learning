@@ -1,9 +1,8 @@
 # Macedonian Vocabulary Tracker
 
-**Last completed lesson reconciled:** 2026-09-22  
-**Last reconciliation performed:** 2026-09-22  
+**Last completed lesson reconciled:** 2026-09-23
+**Last reconciliation performed:** 2026-09-23
 **Last cumulative review:** 2026-09-18  
-**Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
 Status meanings: **strong** = recalled independently; **developing** = used with some support or errors; **encountered** = introduced but not yet demonstrated reliably; **unverified** = present in an older tracker without reliable lesson evidence and must not be used as assumed prior knowledge.
 
@@ -20,6 +19,8 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 | ти | ti | you | developing |
 | тој | toj | he | developing; introduced and used correctly with `купува` 2026-09-13 |
 | таа | taa | she | developing; used correctly with `купува`, `јаде`, and `пие` 2026-09-13 |
+| ние | nie | we | developing; introduced and used independently with `имаме` 2026-09-23 |
+| тие | tie | they | developing; introduced and used independently with `имаат` in statements and a question 2026-09-23 |
 | сум | sum | am | developing |
 | од | od | from | developing; distinguished from `во` and used independently with shops 2026-09-08 |
 | Австралија | Avstralija | Australia | developing |
@@ -108,6 +109,8 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 |---|---|---|---|
 | брат | brat | brother | developing; introduced and used independently with `имам` and `имаш` 2026-09-19 |
 | сестра | sestra | sister | developing; introduced and used independently with `таа има` 2026-09-19 |
+| мајка | majka | mother | developing; introduced 2026-09-23 and used with `ние имаме` and `тие имаат`; one spelling slip `мајла` was corrected |
+| татко | tatko | father | developing; introduced and used independently with `ние имаме` and `тие имаат` 2026-09-23 |
 
 ## Personal items
 
@@ -138,7 +141,9 @@ Status meanings: **strong** = recalled independently; **developing** = used with
 
 ## Recency watchlist
 
-- **2026-09-22:** Recently practised: клуч, торба, мал/мала/голема, имам/има, сестра, живеам во Перт, јаде/јадеш, риба, ориз, дома, на пазарот. Revisit кое, пијам spelling, and question order. Voice practice is due next lesson.
+- **2026-09-23:** Recently practised: ние/тие, имаме/имаат, мајка, татко, имам/имаш, телефон, пенкало, маса, огледало, прозорец, торба, adjective agreement, Австралија, Перт, кафе, работа, леб, пекарата, and дома. Revisit кое after the initial `кој пенкало`, која with feminine nouns, прозорец spelling, and `живеам во` after omission of `во` in conversation.
+
+- **2026-09-22:** Recently practised: клуч, торба, мал/мала/голема, имам/има, сестра, живеам во Перт, јаде/јадеш, риба, ориз, дома, на пазарот. Revisit кое, пијам spelling, and question order.
 
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
@@ -149,6 +154,10 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Update this watchlist after every completed lesson from actual evidence; do not infer practice from teacher-provided text.
 
 ## Items to prioritise next
+
+- Retrieve `ние имаме` and `тие имаат` after a delay and contrast them with singular `имам / имаш / има`.
+- Recheck `мајка` spelling and independently retrieve both new family words.
+- Revisit `кое пенкало`, `која торба`, `голем прозорец`, and `живеам во + city` without models.
 
 - Next lesson, retrieve `голем / голема / големо` and `мал / мала / мало` without a model and mix them with masculine, feminine, and neuter nouns.
 - Recheck `прозорец` without a vocabulary cue and `огледало / огледалото` after a delay.
@@ -165,13 +174,23 @@ Meaningful practice means active learner recall, production, transformation, cor
 
 ## Reconciliation evidence
 
+### 2026-09-23
+
+- Completed four Review, four Retrieval, two new-material prompts, five Practice prompts, and a four-turn family/home conversation.
+- Introduced `ние` (nie, we), `тие` (tie, they), `мајка` (majka, mother), and `татко` (tatko, father), together with `ние имаме` and `тие имаат`. Independently used both plural patterns in statements, a `дали` question, mixed practice, and conversation.
+- Corrected `Мое мал телефон дома` to `Имам мал телефон дома`; this distinguished possessive `мое` from verbal possession and restored masculine agreement.
+- Retrieved origin/residence, `сакам да пијам`, `имаш`, third-person `јаде`, source `од пекарата`, and a `дали` question. Corrected neuter `кој пенкало` to `кое пенкало`.
+- Spelling/word-retrieval corrections included `мајла` to `мајка`, English `table` to `маса`, `шрозорец` to `прозорец`, and omitted `во` in `Живеам Перт` to `Живеам во Перт`. `голема прослава` was grammatical but mismatched the requested `голем прозорец`.
+- Corrected `Кој мала торба...` to feminine `Која мала торба...`; the learner then produced the neutral question `Која мала торба имаат тие дома?` and completed the stretch sentence with correct plural possession and adjective agreement.
+- Independently transformed `Тој секогаш пие вода дома` into the correct yes/no question `Дали тој секогаш пие вода дома?`.
+
 ### 2026-09-22
 
 - Completed four Review, four Retrieval, two new-material, five Practice prompts, and a four-turn market conversation.
 - Introduced `клуч` (ključ, key) and `торба` (torba, bag). Independently produced `Кој клуч?`, `Која торба?`, `Кој клуч е мал?`, and `Таа има голема торба`. Self-corrected `маја` to `мала` in a mixed question.
 - Retrieved `живеам во Перт` twice, `риба`, `работа`, `ориз`, `сестра`, `дома`, `на пазарот`, and `мал телефон`. Spelled `имам` as `Овам` and `пијам` as `пиам`; teacher supplied corrections.
 - Initially wrote `мала` for requested “big,” then corrected to `голема`. Wrote `Којо пенкало` for `Кое пенкало`.
-- `да купам`, `ли`, and `твојата` appeared only in teacher examples/questions and are not learned. No voice activity; last recorded practice 2026-09-17, now due.
+- `да купам`, `ли`, and `твојата` appeared only in teacher examples/questions and are not learned.
 
 ### 2026-09-19
 
@@ -183,7 +202,6 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Corrected masculine agreement and noun form from `мало телефоно` to `мал телефон`; later maintained feminine and neuter agreement in `голема книга`, `мало пенкало`, and `мало огледало`.
 - Corrected `шродавницата` to `продавницата` and `одам` to `дома` in conversation. The learner then independently produced `Не, имам мало огледало дома`.
 - Learner used plural `кроасани` with an initial spelling attempt `кростани`; `пицерија` was supplied as the natural word after learner-created `пица продавница`, so it remains encountered rather than independently retrieved.
-- No voice activity was required; the shared voice marker remains 2026-09-17.
 
 ### 2026-09-18 — cumulative review
 
@@ -194,15 +212,13 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Recalled `риба`, `ориз`, `сирење`, `леб`, `пекарата`, `бурек`, and `сок` in mixed practice and conversation.
 - Spelling slips: `сиренје` was corrected to `сирење`; learner-introduced `кросана` received the correction `кроасан`.
 - Teacher error: one retrieval prompt requested untaught plural “big windows.” It was withdrawn and replaced with singular `голем прозорец`; the learner’s response to the withdrawn prompt is not treated as an error.
-- No voice activity was required; the last recorded voice/read-aloud practice remains 2026-09-17.
 
 ### 2026-09-17
 
 - Independently retrieved `пиеш`, `живеам во Перт`, `Утре тој оди дома`, `вратата`, and the location phrase `во пекарата`; `пекората` was corrected to `пекарата`.
-- `огледалото` was not initially recalled, then was produced correctly after one reminder; `прозорец` was not recalled during the later voice prompt and was supplied.
+- `огледалото` was not initially recalled, then was produced correctly after one reminder; `прозорец` was not recalled during a later prompt and was supplied.
 - Introduced adjective agreement with `голем / голема / големо` and `мал / мала / мало`; correctly matched the forms with `прозорец`, `врата`, `огледало`, `стол`, and `маса` across supported, transformation, mixed-question, and conversation tasks.
 - A first attempt at “small chair” produced the valid but mismatched `мала маса`; the requested `мал стол` was then produced correctly.
-- Completed a read-aloud/voice response for `голем прозорец`, returned as Latin transcription. Word choice was verified from text; pronunciation was not assessed.
 - In conversation, `Од на пазар` was corrected to `на пазарот`, and positive `купувам` after `Не` was corrected to `Не, не купувам...`.
 
 ### 2026-09-16

@@ -1,9 +1,8 @@
 # Macedonian Grammar and Progress Tracker
 
-**Last completed lesson reconciled:** 2026-09-22  
-**Last reconciliation performed:** 2026-09-22  
+**Last completed lesson reconciled:** 2026-09-23
+**Last reconciliation performed:** 2026-09-23
 **Last cumulative review:** 2026-09-18  
-**Last voice practice:** 2026-09-17 — spoken/read-aloud response transcribed as Latin text; pronunciation not assessed
 
 Status meanings: **developing** = demonstrated but not consistently secure; **introduced** = explained or encountered and needs more retrieval.
 
@@ -35,6 +34,7 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 | basic adjective agreement | common adjectives match noun gender: masculine `голем/мал`, feminine `голема/мала`, neuter `големо/мало` | developing; introduced 2026-09-17 and applied correctly across supported, transformed, mixed, and conversational sentences |
 | basic possessive agreement | `мој / моја / мое` agrees with masculine, feminine, and neuter nouns | developing; introduced 2026-09-18 and independently matched across three genders and combined with adjective agreement |
 | `имам / имаш / има` | present-tense “have/has” agrees with the subject: `Имам брат`, `Имаш брат`, `Таа има сестра` | developing; introduced 2026-09-19 and used in statements, a `дали` question, transformations, mixed practice, and conversation |
+| `ние имаме / тие имаат` | plural present forms of “have”: `Ние имаме...` (we have), `Тие имаат...` (they have) | developing; introduced 2026-09-23 and used independently in statements, a `дали` question, mixed practice, and conversation |
 
 | `кој / која / кое` + noun | “which” agrees with masculine, feminine, neuter nouns: `кој клуч`, `која торба`, `кое пенкало` | developing; masculine/feminine independently used 2026-09-22; neuter `кое` needed correction from `којо` |
 
@@ -66,7 +66,9 @@ Status meanings: **developing** = demonstrated but not consistently secure; **in
 
 ## Recency watchlist
 
-- **2026-09-22:** Recent meaningful practice includes кој/која, adjective agreement, имам/има, живеам во Перт, дали, јадеш/јаде, понекогаш, дома, на пазарот, and сакам да. Revisit neuter кое, пијам spelling, plain што/која + verb + subject questions, and voice practice next lesson.
+- **2026-09-23:** Recent meaningful practice includes `ние имаме / тие имаат`, singular `имам / имаш`, `дали`, `што + verb + subject`, adjective and interrogative agreement, `сакам да + verb`, `од + source`, and `живеам во + city`. Revisit plural possession after a delay, neuter `кое`, feminine `која`, masculine `голем прозорец`, and retention of `во` with cities.
+
+- **2026-09-22:** Recent meaningful practice includes кој/која, adjective agreement, имам/има, живеам во Перт, дали, јадеш/јаде, понекогаш, дома, на пазарот, and сакам да. Revisit neuter кое, пијам spelling, and plain што/која + verb + subject questions.
 
 Meaningful practice means active learner recall, production, transformation, correction, comprehension, or conversation use—not a teacher example.
 
@@ -77,6 +79,10 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Update this watchlist after every completed lesson from actual evidence and proficiency; do not refresh an item solely because the teacher displayed it.
 
 ## Items to prioritise next
+
+- Retrieve `ние имаме / тие имаат` after a delay and contrast them with `имам / имаш / има`.
+- Recheck interrogative agreement across `кој / која / кое`, especially neuter `кое`, without a supplied model.
+- Revisit `живеам во + city`, masculine adjective agreement in `голем прозорец`, and neutral question order.
 
 - Next lesson, retrieve `имам / имаш / има`, `брат`, and `сестра` after a delay and mix them with an explicit-subject `дали` question.
 - Recheck ordinary `Што јаде таа?` using plain English instructions; avoid the unexplained label “neutral beginner form.”
@@ -94,13 +100,23 @@ Meaningful practice means active learner recall, production, transformation, cor
 
 ## Reconciliation evidence
 
+### 2026-09-23
+
+- Completed a normal lesson with four Review prompts, four distinct Retrieval prompts, two new-material prompts, five Practice prompts, and a four-turn conversation.
+- Introduced plural possession `ние имаме / тие имаат`. The learner independently produced both forms, transformed between them, used `тие имаат` in a `дали` question and a `која` question, and maintained both in a stretch contrast joined by `ама`.
+- Retrieved singular `имаш`, third-person `јаде`, neutral `што + verb + subject` order, `сакам да пијам`, source `од пекарата`, and neutral `дали` order.
+- Initially used possessive `мое` instead of verbal `имам` and mismatched masculine `телефон`; corrected to `Имам мал телефон дома`.
+- Corrected interrogative agreement from `Кој пенкало` to `Кое пенкало` and from `Кој мала торба` to `Која мала торба`. The subject-first placement in the latter was acknowledged as possible with contrastive emphasis before the learner produced neutral `Која мала торба имаат тие дома?`.
+- Corrected a requested-meaning mismatch from grammatical `голема прослава` to `голем прозорец`, including masculine adjective agreement. In conversation, restored the required city preposition in `Живеам во Перт`.
+- Independently transformed `Тој секогаш пие вода дома` into the correct yes/no question `Дали тој секогаш пие вода дома?`.
+
 ### 2026-09-22
 
 - Completed four Review, four Retrieval, two new-material, five Practice prompts, and four conversation turns.
 - Introduced interrogative agreement `кој / која / кое` with masculine `клуч`, feminine `торба`, and neuter `пенкало`. Independently used masculine and feminine in short questions and mixed sentences. `Којо пенкало` needed correction to `Кое пенкало`.
 - Retrieved `Дали таа има сестра?`, `Јадеш ориз дома`, `Живеам во Перт`, `Таа понекогаш јаде риба на работа`, and `сакам да` with one spelling correction `пиам` to `пијам`. `Што таа јаде денес?` was valid with contrastive emphasis; plain question order was modelled.
 - Corrected a meaning mismatch `Моја книга е мала` to `Моја книга е голема`. `Која торба таа има дома?` conveyed the meaning; teacher modelled more natural `Која торба има таа дома?`.
-- Conversation included `Сакам да купувам мала торба`, `Да, имам`, `Живеам во Перт`, and `Таа има голема торба`. Teacher mentioned bounded `да купам` and used `ли`/`твојата` without teaching them; they are not demonstrated knowledge. No voice activity; due next lesson.
+- Conversation included `Сакам да купувам мала торба`, `Да, имам`, `Живеам во Перт`, and `Таа има голема торба`. Teacher mentioned bounded `да купам` and used `ли`/`твојата` without teaching them; they are not demonstrated knowledge.
 
 ### 2026-09-19
 
@@ -111,7 +127,6 @@ Meaningful practice means active learner recall, production, transformation, cor
 - The instruction “neutral beginner form” was too abstract. After plain-language clarification, the learner produced correct `Што јадеш денес?` for second person; third-person `Што јаде таа денес?` still required a model and should be retrieved later without jargon.
 - Corrected adjective/noun agreement from `мало телефоно` to `мал телефон`, then correctly produced `голема книга`, `мало пенкало`, and `мало огледало` in longer sentences.
 - In conversation, corrected the lexical mismatch `одам` to `дома` and independently rewrote `Не, имам мало огледало дома`.
-- No voice activity was required; the shared voice marker remains 2026-09-17.
 
 ### 2026-09-18 — cumulative review
 
@@ -121,7 +136,6 @@ Meaningful practice means active learner recall, production, transformation, cor
 - Introduced possessive agreement `мој / моја / мое`; independently matched all three forms and combined them with `мал / мала / мало` and `голем / голема / големо`.
 - Produced natural `Што јаде денес таа?`; this valid neutral order was accepted alongside the earlier beginner model `Што јаде таа денес?`.
 - Teacher error: a retrieval prompt required an untaught plural noun/adjective form. The prompt was withdrawn, the response was not graded, and a singular replacement was answered correctly.
-- No voice activity was required; the shared voice marker remains 2026-09-17.
 
 ### 2026-09-17
 
@@ -132,7 +146,6 @@ Meaningful practice means active learner recall, production, transformation, cor
 - The stretch sentence correctly combined time, first- and third-person verbs, `ама`, adjective agreement, `на пазарот`, and source `од продавницата`.
 - In conversation, blended `од` and `на` as `Од на пазар`; corrected to `Купувам мала врата на пазарот.`
 - Initially answered a negative question with `Не купувам...`, leaving the verb positive; then correctly produced `Не, не купувам големо огледало.`
-- Voice/read-aloud activity completed through a Latin text transcription of `голем прозорец`; the grammatical response was verified, but pronunciation was not assessed.
 
 ### 2026-09-16
 

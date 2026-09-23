@@ -6,7 +6,6 @@
 - Give English explanations and instructions; show Latin transliteration with new Macedonian material.
 - Teach one activity or question at a time and wait for the learner's reply.
 - Keep daily lessons manageable but substantial. As the learner's inventory grows, a normal lesson should usually require about 16–20 short learner responses, delivered one at a time; never dump the whole lesson at once.
-- Include a short voice or dictation activity at least once every three completed lessons, and sooner whenever seven days have passed since the last recorded voice practice. If voice input is unavailable, use a clearly labelled read-aloud plus typed-back fallback and still record the mode accurately.
 
 ## Phase control and answer validation
 
@@ -85,14 +84,6 @@ Review and Retrieval must remain distinct. If they would test the same thing in 
 - Treat an item as **stale** after roughly 7 days without meaningful practice and **overdue** after roughly 14 days, adjusted for proficiency: weak/developing items may be recycled sooner, while strong items may wait longer.
 - Lesson selection must not become purely oldest-first. Each Review and Retrieval phase must contain a balanced sample of recent consolidation and weak/stale/overdue retrieval.
 - After the lesson, update the recency watchlists and next-priority lists from actual learner performance.
-
-## Voice and dictation cadence
-
-- Both trackers contain a **Last voice practice** marker.
-- Voice/dictation is due when no practice has ever been recorded, after three completed lessons without it, or after seven calendar days—whichever comes first.
-- Prefer one short listen-and-repeat, spoken answer, or dictated sentence activity integrated into Review, Retrieval, or Conversation rather than adding a disconnected exercise.
-- If the interface cannot capture audio, explicitly ask the learner to read a sentence aloud and type what they said; record this as a read-aloud fallback, not as verified pronunciation.
-- Never claim pronunciation was assessed from typed text alone.
 
 ## Weekly cumulative review
 
